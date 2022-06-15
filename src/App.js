@@ -6,13 +6,6 @@ import DeliveryAddress from "./DeliveryAddress";
 import GstDetails from "./GstDetails";
 import Test from "./Test";
 import "./App.css";
-import styled from "@emotion/styled";
-
-// const useStyles=makeStyles(
-//   buttonStyle:{
-//     color:'red'
-//   }
-// )
 
 const App = () => {
   return (
